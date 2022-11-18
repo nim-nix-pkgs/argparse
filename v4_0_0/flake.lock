@@ -204,10 +204,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-argparse-master": "src-argparse-master"
+        "src-argparse-v4_0_0": "src-argparse-v4_0_0"
       }
     },
-    "src-argparse-master": {
+    "src-argparse-v4_0_0": {
       "flake": false,
       "locked": {
         "lastModified": 1668712310,
@@ -219,7 +219,7 @@
       },
       "original": {
         "owner": "iffy",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v4.0.0",
         "repo": "nim-argparse",
         "type": "github"
       }
